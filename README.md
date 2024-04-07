@@ -214,10 +214,10 @@ Steps are :
 4. PARTITION TIME to have /home folder on different partition but same disk.   
  ![finalpartitionMintLinux](https://github.com/marodorse/BKD-Linux-Server-Project/assets/34199422/39b6d162-398f-4464-bcd8-4acc44af0f43)      
 
-/home folder needs at least 10GB of space for installation to continue.
-5. Select time zone a.k.a where you
-6. create user a.k.a who are you 
-7. finalize and finish. 
+/home folder needs at least 10GB of space for installation to continue.    
+5. Select time zone a.k.a where you   
+6. create user a.k.a who are you    
+7. finalize and finish.    
 
 ------
 
